@@ -405,7 +405,7 @@ solution, keep the server running to test your code. Open `index.html` in a
 browser to gain access to your `submitData` function in console.
 
 **Note**: The tests in this lab need access to the `fetch()` request inside
-`submitData`. In order to give them access, write you solution so that
+`submitData`. In order to give them access, write your solution so that
 `submitData` _returns_ the `fetch()`. This will not change the behavior of
 your `fetch()`.
 
